@@ -1,5 +1,5 @@
 ﻿# AmazonLinkChanger-ChromeExtension
-This Extension Changing urls in Amazon example:&nbsp;
+This Extension Changing urls in Amazon example:&thinsp;
 https://www.amazon.com/ ----> https://www.amazon.ca/&nbsp;
 https://www.amazon.com/ ----> https://www.amazon.sa/&nbsp;
 https://www.amazon.sa/  ----> https://www.amazon.com/&nbsp;
