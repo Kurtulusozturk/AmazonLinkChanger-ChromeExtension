@@ -17,6 +17,7 @@ https://www.amazon.ca/  ----> https://www.amazon.com/
 
 -Ready to use.
 
-![Ekran görüntüsü 2023-08-09 160947](https://github.com/Kurtulusozturk/AmazonLinkChanger-ChromeExtension/assets/92689191/64295711-82df-460a-93ef-cc97d01f6b8b)
+![Ekran görüntüsü 2023-08-09 160947](https://github.com/Kurtulusozturk/AmazonLinkChanger-ChromeExtension/assets/92689191/218924af-701a-4bd7-9779-d7908371a53a)
+
 
 
