@@ -19,7 +19,6 @@ https://www.amazon.ca/  <---->  https://www.amazon.co.jp/
 
 -Ready to use.
 
-![Ekran görüntüsü 2023-08-09 160947](https://github.com/Kurtulusozturk/AmazonLinkChanger-ChromeExtension/assets/92689191/218924af-701a-4bd7-9779-d7908371a53a)
-
+![Ekran görüntüsü 2023-08-26 182800](https://github.com/Kurtulusozturk/AmazonLinkChanger-ChromeExtension/assets/92689191/7aa77f0f-0f09-4433-925e-ad1ffcbcc084)
 
 
