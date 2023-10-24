@@ -11,7 +11,7 @@ https://www.amazon.sa/   <---->  https://www.amazon.ca/
 
 https://www.amazon.ca/  <---->  https://www.amazon.co.jp/
 
-﻿#Useage: 
+﻿#Usage: 
 
 -Open developer mode. If you don't know how to do it just watch: https://www.youtube.com/watch?v=vGxpOBnLzp8&ab_channel=VishapTVplus.
 
